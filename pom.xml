@@ -24,17 +24,7 @@
 	</properties>
 	<packaging>jar</packaging>
 	<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-log4j12 -->
-	<repositories>
-		<repository>
-			<id>hw_central</id>
-			<name>Hortonworks Mirror of Central</name>
-			<url>http://repo.hortonworks.com/content/groups/public/</url>
-		</repository>
-		<repository>
-			<id>cloudera</id>
-			<url>https://repository.cloudera.com/artifactory/cloudera-repos/</url>
-		</repository>
-	</repositories>
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.kafka</groupId>
