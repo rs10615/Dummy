@@ -9,7 +9,7 @@
 	<properties>
 		<jcs.version>2.2</jcs.version>
 		<kafka.version>0.9.0.0</kafka.version>
-		<hadoop.version>2.6.0-cdh5.8.3</hadoop.version>
+		<hadoop.version>3.2.3</hadoop.version>
 		<hive.version>1.1.0-cdh5.8.3</hive.version>
 		<jasypt.version>1.9.2</jasypt.version>
 		<mysql.version>8.0.19</mysql.version>
