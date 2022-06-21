@@ -12,7 +12,7 @@
 		<hadoop.version>2.6.0-cdh5.8.3</hadoop.version>
 		<hive.version>1.1.0-cdh5.8.3</hive.version>
 		<jasypt.version>1.9.2</jasypt.version>
-		<mysql.version>8.0.19</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<mail.version>1.6.2</mail.version>
 		<jackson.version>2.11.0</jackson.version>
 		<json.version>20090211</json.version>
